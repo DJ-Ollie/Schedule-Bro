@@ -13,7 +13,7 @@ A web-based event scheduling platform for coordinating annual get-togethers. Cre
 
 ## Live Demo
 
-Visit [https://yourusername.github.io/friend-gathering-scheduler](https://yourusername.github.io/friend-gathering-scheduler)
+Visit [Schedule-Bro](https://DJ-ollie.github.io/Schedule-Bro)
 
 ## Setup
 
@@ -76,7 +76,5 @@ MIT
 
 ## Author
 
-Your Name (@yourusername)
+Your Name (@DJ-ollie)
 
-
-Replace "yourusername" with your GitHub username before publishing.
